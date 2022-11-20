@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    height: 70px;
+}
+
+.navbar-nav {
+    gap: 20px;
+}
+
+.collapse {
+    display: flex;
+    justify-content: end;
+}
+
+.nav-link {
+    color: white;
+}
+
+
+.imageBanner {
+    width: 100vw;
+    height: 900px;
+}
